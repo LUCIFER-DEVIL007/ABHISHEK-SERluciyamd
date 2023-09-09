@@ -53,9 +53,9 @@ global.packname = 'LUCIFER-DEVIL🎯LUCIFER-DEVIL☘️'
 global.author = 'LUCIFER DEVIL' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/abhishek_ser\n' 
 global.dygp = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
-global.fgsc = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' 
-global.fgyt = 'https://youtube.com/@comedymelodych8468'
-global.fgpyp = 'https://youtube.com/@comedymelodych8468'
+global.fgsc = 'https://github.com/luciyaaa' 
+global.fgyt = 'https://youtube.com/'
+global.fgpyp = 'https://youtube.com/@com'
 global.fglog = 'https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png' 
 
 //imagen
